@@ -1,0 +1,6 @@
+{
+  "name": "Axiom",
+  "description": "A private capital community built for disciplined growth, collective ownership, and long-term thinking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
